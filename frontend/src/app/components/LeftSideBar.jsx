@@ -108,10 +108,10 @@ const LeftSideBar = () => {
           <div className="text-xs text-muted-foreground space-y-1">
             <Button
               variant="ghost"
-              className="cursor-pointer -ml-4 "
+              className="cursor-pointer  "
               //   onClick={handleLogout}
             >
-              <LogOut /> <span className="ml-2 font-bold text-md">Logout</span>
+              <LogOut /> <span className=" font-bold text-md">Logout</span>
             </Button>
             <p>Privacy · Terms · Advertising ·</p>
             <p>· Meta © 2024</p>
